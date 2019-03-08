@@ -7,12 +7,17 @@ The RVFamSq package provides an efficient approach to examine the association be
 
 ## Installation:
 
-1.To install the RVFamSq package using the following command:
+* To install the RVFamSq package using the following command:
   
+  ```  
   install.packages('path/to/RVFamSq_0.1.0.tar.gz', repos = NULL)
   
+  ```  
   The RVFamSq_0.1.0.tar.gz is the source files that can be downloaded from https://github.com/zhangzhhcb/RVFamSq/tree/master.
   
-2. The depent R-packages used in RVFamSq can be downloaded and installed automatically from CRAN repositories using:
+* The depent R-packages used in RVFamSq can be downloaded and installed automatically from CRAN repositories using:
   
+  ```  
   install.packages(c('bbmle', 'mvtnorm', 'rlist'))
+  
+  ```  
