@@ -5,7 +5,7 @@ Rare Variant-Family-Based Score Test for Quantitative Traits
 
 The RVFamSq package provides an efficient approach to examine the association between the region-based rare variants and the quantitative traits in family-based data. The RVFamsSq can be broadly applied to diverse pedigrees with members missing sequence data. In addition, qualitative and quantitative covariates, e.g., age, sex, and body mass index, can be flexibly included. The speed of the package is significantly optimized to analyze large-scale data sets.  
 
-Installation:
+## Installation:
 
 1.To install the RVFamSq package using the following command:
   
