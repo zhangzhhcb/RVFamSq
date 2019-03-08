@@ -12,7 +12,7 @@ The RVFamSq package provides an efficient approach to examine the association be
   ```  
   install.packages('path/to/RVFamSq_0.1.0.tar.gz', repos = NULL)
   ```  
-  The RVFamSq_0.1.0.tar.gz is the source files that can be downloaded from https://github.com/zhangzhhcb/RVFamSq/tree/master.
+  The RVFamSq_0.1.0.tar.gz is the source files that can be downloaded from https://github.com/zhangzhhcb/RVFamSq.
   
 * The depent R-packages used in RVFamSq can be downloaded and installed automatically from CRAN repositories using:
   
